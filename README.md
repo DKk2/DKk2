@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my project
-- 🌱 I’m currently learning TO USE git
+- 🌱 I’m currently learning TO use github
 
 <!--
 **DKk2/DKk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
